@@ -6,7 +6,7 @@ Here you can find current information about me and my projects.
 
 Have a nice time &middot; :wink:
 
-## Stack &middot;
+## Stack &middot; Tools
 
 ![](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 <!-- ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -32,20 +32,18 @@ Have a nice time &middot; :wink:
 ![](https://img.shields.io/badge/-Kubernetes-306ADF?style=flat&logo=Kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/-Apache_Kafka-242021?style=flat&logo=Apache-Kafka&logoColor=white) -->
 
-## Tools &middot;
-
 ![](https://img.shields.io/badge/-Windows_10-0078D6?style=flat&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat&logo=Windows-Terminal&logoColor=white)
 ![](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white)
 <!-- ![](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=WebStorm&logoColor=white) -->
 
-## Project(-s) &middot;
+## Project(-s) &middot; :rocket:
 
 | Project | License | Description | Status | Activity |
 | :-----: | :-----: | :---------: | :----: | :------: |
 | **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | Console application, that can store data with key "Name - ID" in its database | [![Build Status](https://travis-ci.com/jeikhan/job4j.svg?branch=hotfix_3)](https://travis-ci.com/jeikhan/job4j) | ![GitHub last commit](https://img.shields.io/github/last-commit/jeikhan/job4j) |
 
-## Contacts &middot;
+## Contacts
 
 **E-mail:** evgenii.kapaev@yandex.ru
 
