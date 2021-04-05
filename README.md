@@ -1,16 +1,54 @@
-### Hi there 👋
+# Hey! Nice to see you &middot; :wave:
 
-<!--
-**jeikhan/jeikhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Evgenii, beginner `BackEnd` developer. I develop `Java` programs in conjunction with other technologies. 
 
-Here are some ideas to get you started:
+Here you can find current information about me and my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have a nice time &middot; :wink:
+
+## Stack &middot;
+
+![](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+<!-- ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) -->
+
+![](https://img.shields.io/badge/-jUnit-259C5F?style=flat&logo=&logoColor=)
+![](https://img.shields.io/badge/-Travis_CI-ECE8AA?style=flat&logo=Travis-CI&logoColor=black)
+![](https://img.shields.io/badge/-JaCoCo-7D0D00?style=flat&logo=JaCoCo&logoColor=white)
+<!-- ![](https://img.shields.io/badge/-Mockito-79A63E?style=flat&logo=&logoColor=white) -->
+
+![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+<!-- ![](https://img.shields.io/badge/-PostgreSQL-31648D?style=flat&logo=PostgreSQL&logoColor=white)
+![](https://img.shields.io/badge/-Hibernate-B6A975?style=flat&logo=Hibernate&logoColor=white)
+
+![](https://img.shields.io/badge/-Spring-6AAD3D?style=flat&logo=spring&logoColor=white) -->
+
+![](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+<!-- ![](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+
+![](https://img.shields.io/badge/-Docker-0A97E5?style=flat&logo=Docker&logoColor=white)
+![](https://img.shields.io/badge/-Kubernetes-306ADF?style=flat&logo=Kubernetes&logoColor=white)
+![](https://img.shields.io/badge/-Apache_Kafka-242021?style=flat&logo=Apache-Kafka&logoColor=white) -->
+
+## Tools &middot;
+
+![](https://img.shields.io/badge/-Windows_10-0078D6?style=flat&logo=Windows&logoColor=white)
+![](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat&logo=Windows-Terminal&logoColor=white)
+![](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white)
+<!-- ![](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=WebStorm&logoColor=white) -->
+
+## Project(-s) &middot;
+
+| Project | License | Description | Status | Activity |
+| :-----: | :-----: | :---------: | :----: | :------: |
+| **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | Console application, that can store data with key "Name - ID" in its database | [![Build Status](https://travis-ci.com/jeikhan/job4j.svg?branch=hotfix_3)](https://travis-ci.com/jeikhan/job4j) | ![GitHub last commit](https://img.shields.io/github/last-commit/jeikhan/job4j) |
+
+## Contacts &middot;
+
+**E-mail:** evgenii.kapaev@yandex.ru
+
+<!-- **LinkedIn:** [evgenkapaev](https://www.linkedin.com/in/evgenkapaev/)
+
+**Resume:** [.pdf](https://github.com/jeikhan/job4j) -->
