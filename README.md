@@ -59,7 +59,7 @@ Have a nice time &middot; :wink:
 
 | Project | License | Description | Release |
 | :-----: | :-----: | :---------: | :----: |
-| **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | <p align = "left">Console application, that can store data with key "Name - ID" in its database</p> | **[Beta](https://en.wikipedia.org/wiki/Software_release_life_cycle)** |
+| **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | Console application, that can store data with key "Name - ID" in its database | **[Beta](https://en.wikipedia.org/wiki/Software_release_life_cycle)** |
 
 ## Contacts
 
