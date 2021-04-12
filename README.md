@@ -57,9 +57,9 @@ Have a nice time &middot; :wink:
 
 ## Project(-s) &middot; :rocket:
 
-| Project | License | Description | Status | Activity |
-| :-----: | :-----: | :---------: | :----: | :------: |
-| **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | Console application, that can store data with key "Name - ID" in its database | [![Build Status](https://travis-ci.com/jeikhan/job4j.svg?branch=hotfix_3)](https://travis-ci.com/jeikhan/job4j) | ![GitHub last commit](https://img.shields.io/github/last-commit/jeikhan/job4j) |
+| Project | License | Description | Release |
+| :-----: | :-----: | :---------: | :----: |
+| **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | <p align = "left">Console application, that can store data with key "Name - ID" in its database</p> | **[Beta](https://en.wikipedia.org/wiki/Software_release_life_cycle)** |
 
 ## Contacts
 
