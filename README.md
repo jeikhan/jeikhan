@@ -2,7 +2,7 @@
 
 I'm Evgenii, beginner `BackEnd` developer. I develop `Java` programs in conjunction with other technologies. 
 
-Here you can find current information about me and my projects.
+Below you can find current information about my `skills` and `projects`.
 
 Have a nice time &middot; :wink:
 
@@ -57,14 +57,10 @@ Have a nice time &middot; :wink:
 
 ## Project(-s) &middot; :rocket:
 
-| Project | License | Description | Release |
-| :-----: | :-----: | :---------: | :----: |
-| **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | Console application, that can store data with key "Name - ID" in its database | **[Beta](https://en.wikipedia.org/wiki/Software_release_life_cycle)** |
+| Project | License | Description | Release | Issues |
+| :-----: | :-----: | :---------: | :-----: | :----: |
+| **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | Console application, that can store data with key "Name - ID" in its database | **[Beta](https://en.wikipedia.org/wiki/Software_release_life_cycle)** | **[Ask](https://github.com/jeikhan/job4j/issues)**
 
-## Contacts
+## P.S.
 
-**E-mail:** evgenii.kapaev@yandex.ru
-
-<!-- **LinkedIn:** [evgenkapaev](https://www.linkedin.com/in/evgenkapaev/)
-
-**Resume:** [.pdf](https://github.com/jeikhan/job4j) -->
+All suggestions and comments are welcome to **Issues**.
