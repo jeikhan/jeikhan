@@ -14,6 +14,7 @@ Have a nice time &middot; :wink:
 <!-- `CSS3` -->
 
 `jUnit`
+`Hamcrest`
 <!-- `Mockito` -->
 
 `Travis CI`
