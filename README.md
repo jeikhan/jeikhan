@@ -54,6 +54,6 @@ Have a nice time &middot; :wink:
 | :-----: | :-----: | :---------: | :----: | :-----: | :----: |
 | **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | Console application, that can store data with key "Name - ID" in its database | **Current** | **[Beta](https://en.wikipedia.org/wiki/Software_release_life_cycle)** | **[Ask](https://github.com/jeikhan/job4j/issues)**
 
-## P.S.
+## P.S. &middot; :snail:
 
-Please, write all suggestions and comments in **Issues**. Thanks! &middot; :ok_hand:
+Please, write all suggestions and comments in **Issues**. Thanks!
