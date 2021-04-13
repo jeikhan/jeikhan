@@ -6,57 +6,50 @@ Below you can find current information about my `hard skills` and `projects`.
 
 Have a nice time &middot; :wink:
 
-## Skills
+## Skills &middot; :mortar_board:
 
 ### Stack
 
 - `Java`
-- `jUnit` `Hamcrest`
-- `Travis CI` `JaCoCo`
+- `jUnit` &middot; `Hamcrest`
+- `Travis CI` &middot; `JaCoCo`
 - `Apache Maven`
 - `CheckStyle`
 
 ### Tools
 
-- `Git` `GitHub`
+- `Git` &middot; `GitHub`
 - `Windows Command Prompt`
-- `IntelliJ IDEA` `WebStorm`
+- `IntelliJ IDEA` &middot; `WebStorm`
 - `Windows 10`
 
-| Stack | Tools |
-| :----- | :----- |
-| `Java` | `Git` `GitHub` |
-| `jUnit` `Hamcrest` | `Windows Command Prompt` |
-| `Travis CI` `JaCoCo` | `IntelliJ IDEA` `WebStorm` |
-| `Apache Maven` | `Windows 10` |
-| `CheckStyle` |
 
-
+<!-- 
 `Java`
-<!-- `JavaScript` -->
-<!-- `HTML5` -->
-<!-- `CSS3` -->
+`JavaScript`
+`HTML5`
+`CSS3`
 
 `jUnit`
 `Hamcrest`
-<!-- `Mockito` -->
+`Mockito`
 
 `Travis CI`
 `JaCoCo`
 
-<!-- `PostgreSQL` -->
-<!-- `Hibernate` -->
+`PostgreSQL`
+`Hibernate`
 
-<!-- `Spring` -->
+`Spring`
 
 `Apache Maven`
-<!-- `Gradle` -->
+`Gradle`
 
 `CheckStyle`
 
-<!-- `Docker` -->
-<!-- `Kubernetes` -->
-<!-- `Apache Kafka` -->
+`Docker`
+`Kubernetes`
+`Apache Kafka`
 
 `Git`
 `GitHub`
@@ -67,12 +60,13 @@ Have a nice time &middot; :wink:
 `WebStorm`
 
 `Windows 10`
+-->
 
 <!-- Example badge with logo
 ![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
 -->
 
-## Project(-s) &middot; :rocket:
+## Projects &middot; :rocket:
 
 | Project | License | Description | Status | Release | Issues |
 | :-----: | :-----: | :---------: | :----: | :-----: | :----: |
