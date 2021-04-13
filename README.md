@@ -63,4 +63,4 @@ Have a nice time &middot; :wink:
 
 ## P.S.
 
-All suggestions and comments are welcome to **Issues**.
+Write all suggestions and comments in **Issues**.
