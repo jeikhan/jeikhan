@@ -6,7 +6,31 @@ Below you can find current information about my `hard skills` and `projects`.
 
 Have a nice time &middot; :wink:
 
-## Stack &middot; Tools
+## Skills
+
+### Stack
+
+- `Java`
+- `jUnit` `Hamcrest`
+- `Travis CI` `JaCoCo`
+- `Apache Maven`
+- `CheckStyle`
+
+### Tools
+
+- `Git` `GitHub`
+- `Windows Command Prompt`
+- `IntelliJ IDEA` `WebStorm`
+- `Windows 10`
+
+| Stack | Tools |
+| :----- | :----- |
+| `Java` | `Git` `GitHub` |
+| `jUnit` `Hamcrest` | `Windows Command Prompt` |
+| `Travis CI` `JaCoCo` | `IntelliJ IDEA` `WebStorm` |
+| `Apache Maven` | `Windows 10` |
+| `CheckStyle` |
+
 
 `Java`
 <!-- `JavaScript` -->
