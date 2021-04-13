@@ -8,7 +8,7 @@ Have a nice time &middot; :wink:
 
 ## Skills &middot; :mortar_board:
 
-### Stack
+**Stack**
 
 - `Java`
 - `jUnit` &middot; `Hamcrest`
@@ -16,7 +16,7 @@ Have a nice time &middot; :wink:
 - `Apache Maven`
 - `CheckStyle`
 
-### Tools
+**Tools**
 
 - `Git` &middot; `GitHub`
 - `Windows Command Prompt`
