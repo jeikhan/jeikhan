@@ -10,11 +10,11 @@ Have a nice time &middot; :wink:
 
 ### Stack
 
-**`Java` &middot; `jUnit` &middot; `Hamcrest` &middot; `Travis CI` &middot; `JaCoCo` &middot; `Apache Maven` &middot; `CheckStyle`**
+`Java` &middot; `jUnit` &middot; `Hamcrest` &middot; `Travis CI` &middot; `JaCoCo` &middot; `Apache Maven` &middot; `CheckStyle`
 
 ### Tools
 
-**`Windows` &middot; `Windows Command Prompt` &middot; `Git` &middot; `GitHub` &middot; `IntelliJ IDEA` &middot; `WebStorm`**
+`Windows` &middot; `Windows Command Prompt` &middot; `Git` &middot; `GitHub` &middot; `IntelliJ IDEA` &middot; `WebStorm`
 
 <!-- 
 `Java`
