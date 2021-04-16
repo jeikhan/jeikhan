@@ -8,13 +8,13 @@ Have a nice time &middot; :wink:
 
 ## Skills &middot; :mortar_board:
 
-**Stack**
+### Stack
 
 `Java` &middot; `jUnit` &middot; `Hamcrest` &middot; `Travis CI` &middot; `JaCoCo` &middot; `Apache Maven` &middot; `CheckStyle`
 
-**Tools**
+### Tools
 
-`Windows 10` &middot; `Windows Command Prompt` &middot; `Git` &middot; `GitHub` &middot; `IntelliJ IDEA` &middot; `WebStorm`
+`Windows` &middot; `Windows Command Prompt` &middot; `Git` &middot; `GitHub` &middot; `IntelliJ IDEA` &middot; `WebStorm`
 
 <!-- 
 `Java`
