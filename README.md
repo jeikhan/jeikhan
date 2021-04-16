@@ -6,7 +6,7 @@ Below you can find current information about my `hard skills` and `projects`.
 
 Have a nice time &middot; :wink:
 
-## Skills &middot; :mortar_board:
+## Skills &middot; :hammer_and_wrench:
 
 ### Stack
 
@@ -60,9 +60,9 @@ Have a nice time &middot; :wink:
 
 ## Projects &middot; :rocket:
 
-| # | Project | License | Description | Status | Release | Issues |
-|:-:| :-----: | :-----: | :---------: | :----: | :-----: | :----: |
-| **1** | **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | Console application, that can store data with key "Name - ID" in its database | **Current** | **[Beta](https://en.wikipedia.org/wiki/Software_release_life_cycle)** | **[Ask](https://github.com/jeikhan/job4j/issues)**
+| # | Project | License | Description | Release | Issues |
+|:-:| :-----: | :-----: | :---------: | :-----: | :----: |
+| **1** | **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | Console application, that can store data with key "Name - ID" in its database | **[Beta](https://en.wikipedia.org/wiki/Software_release_life_cycle)** | **[Ask](https://github.com/jeikhan/job4j/issues)** |
 
 ## P.S. &middot; :snail:
 
