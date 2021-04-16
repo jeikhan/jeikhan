@@ -8,7 +8,7 @@ Have a nice time &middot; :wink:
 
 ## Skills &middot; :mortar_board:
 
-### Stack
+**Stack**
 
 `Java`
 
@@ -20,7 +20,7 @@ Have a nice time &middot; :wink:
 
 `CheckStyle`
 
-### Tools
+**Tools**
 
 `Git` &middot; `GitHub`
 
