@@ -10,7 +10,7 @@ Have a nice time &middot; :wink:
 
 ### Stack
 
-`Java` &middot; `jUnit` &middot; `Hamcrest` &middot; `Travis CI` &middot; `JaCoCo` &middot; `Apache Maven` &middot; `CheckStyle`
+**`Java` &middot; `jUnit` &middot; `Hamcrest` &middot; `Travis CI` &middot; `JaCoCo` &middot; `Apache Maven` &middot; `CheckStyle`**
 
 ### Tools
 
