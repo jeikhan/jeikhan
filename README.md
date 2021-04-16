@@ -14,7 +14,7 @@ Have a nice time &middot; :wink:
 
 ### Tools
 
-`Windows` &middot; `Windows Command Prompt` &middot; `Git` &middot; `GitHub` &middot; `IntelliJ IDEA` &middot; `WebStorm`
+**`Windows` &middot; `Windows Command Prompt` &middot; `Git` &middot; `GitHub` &middot; `IntelliJ IDEA` &middot; `WebStorm`**
 
 <!-- 
 `Java`
