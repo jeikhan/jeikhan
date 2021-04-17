@@ -60,9 +60,9 @@ Have a nice time &middot; :wink:
 
 ## Projects &middot; :rocket:
 
-| # | Project | License | Description | Release | Issues |
-|:-:| :-----: | :-----: | :---------: | :-----: | :----: |
-| **1** | **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | Console application, that can store data with key "Name - ID" in its database... [[more details]](https://github.com/jeikhan/job4j/blob/hotfix_3/README.md) | **[Beta](https://en.wikipedia.org/wiki/Software_release_life_cycle)** | **[See](https://github.com/jeikhan/job4j/issues)** |
+| # | Project | License | Description | Release | Issues | Download |
+|:-:| :-----: | :-----: | :---------: | :-----: | :----: | :------: |
+| **1** | **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | Console application, that can store data with key "Name - ID" in its database... [more details](https://github.com/jeikhan/job4j/blob/hotfix_3/README.md) | **[Beta](https://github.com/jeikhan/job4j/releases)** | **[See](https://github.com/jeikhan/job4j/issues)** | **[(.zip)](https://github.com/jeikhan/job4j/releases)** |
 
 ## P.S. &middot; :snail:
 
