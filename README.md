@@ -72,9 +72,9 @@ Have a nice time &middot; :wink:
 
 ## Projects &middot; :rocket:
 
-| # | Project | License | Description | Release | Download |
-|:-:| :-----: | :-----: | :---------: | :-----: | :------: |
-| **1** | **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | Console application, that can store data with key "Name - ID" in its database... [more details](https://github.com/jeikhan/job4j/blob/hotfix_3/README.md) | **[Beta](https://github.com/jeikhan/job4j/releases)** | **[Assets](https://github.com/jeikhan/job4j/releases)** |
+| # | Project | License | Description | UI | Release | Download |
+|:-:| :-----: | :-----: | :---------: | :-: | :-----: | :------: |
+| **1** | **[JeiTracker](https://github.com/jeikhan/job4j)** | **[MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE)** | Console application, that can store data with key "Name - ID" in its database... [more details](https://github.com/jeikhan/job4j/blob/hotfix_3/README.md) | **Console** | **[Beta](https://github.com/jeikhan/job4j/releases)** | **[Assets](https://github.com/jeikhan/job4j/releases)** |
 
 ## P.S. &middot; :snail:
 
