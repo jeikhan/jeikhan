@@ -1,6 +1,6 @@
 # Hi! Nice to see you &middot; :raised_hand_with_fingers_splayed:
 
-I'm Evgenii, beginner `BackEnd` developer. I develop `Java` programs in conjunction with other technologies. 
+I'm Evgenii, beginner `BackEnd` developer. I develop `Java` apps in conjunction with other technologies for: `Command Prompt` &middot; `Web browser`.
 
 Below you can find current information about my `hard skills` and `projects`.
 
