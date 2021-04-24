@@ -2,7 +2,7 @@
 
 I'm Evgen, beginner `BackEnd` developer. I develop `Java` apps in conjunction with other technologies for:
 
-`Command_Prompt` &middot; `Web_browser`
+- `Command_Prompt` &middot; `Web_browser`
 
 Below you can find current information about my `hard_skills` and `projects`.
 
