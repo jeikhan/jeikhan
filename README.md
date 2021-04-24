@@ -1,8 +1,8 @@
 # Hi! Nice to see you &middot; :raised_hand_with_fingers_splayed:
 
-I'm Evgenii, beginner `BackEnd` developer. I develop `Java` apps in conjunction with other technologies for: `Command Prompt` &middot; `Web browser`.
+I'm Evgenii, beginner `BackEnd` developer. I develop `Java` apps in conjunction with other technologies for: `Command_Prompt` &middot; `Web_browser`.
 
-Below you can find current information about my `hard skills` and `projects`.
+Below you can find current information about my `hard_skills` and `projects`.
 
 Have a nice time &middot; :wink:
 
@@ -14,19 +14,19 @@ Have a nice time &middot; :wink:
 
 `JUnit` &middot; `Hamcrest` 
 
-`Travis CI` &middot; `JaCoCo` 
+`Travis_CI` &middot; `JaCoCo` 
 
-`Apache Maven` &middot; `CheckStyle`
+`Apache_Maven` &middot; `CheckStyle`
 
 ### Tools
 
 `Windows` 
 
-`Windows Command Prompt` 
+`Command_Prompt` 
 
 `Git` &middot; `GitHub` 
 
-`IntelliJ IDEA` &middot; `WebStorm`
+`IntelliJ_IDEA` &middot; `WebStorm`
 
 <!-- 
 `Java`
