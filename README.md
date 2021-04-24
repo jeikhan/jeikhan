@@ -14,17 +14,13 @@ Have a nice time &middot; :wink:
 
 `Java`
 
-`JUnit` &middot; `Hamcrest` 
+`JUnit` &middot; `Hamcrest` &middot; `CheckStyle`
 
-`Travis_CI` &middot; `JaCoCo` 
-
-`Apache_Maven` &middot; `CheckStyle`
+`Travis_CI` &middot; `JaCoCo` &middot; `Apache_Maven` 
 
 ### Tools
 
-`Windows` 
-
-`Command_Prompt` 
+`Windows` &middot; `Command_Prompt` 
 
 `Git` &middot; `GitHub` 
 
