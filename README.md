@@ -1,8 +1,8 @@
 # Hi! Nice to see you &middot; :raised_hand_with_fingers_splayed:
 
-I'm Evgen, beginner `BackEnd` developer. I develop `Java` apps in conjunction with other technologies for `Command_Prompt` and `Web_browser`.
+I'm Evgen, beginner **`BackEnd`** developer. I develop **`Java`** apps in conjunction with other technologies for **`command_prompt`** and **`web_browser`**.
 
-Below you can find current information about my `hard_skills` and `projects`.
+Below you can find current information about my **`hard_skills`** and **`projects`**.
 
 Have a nice time &middot; :wink:
 
