@@ -14,7 +14,7 @@ Have a nice time &middot; :wink:
 
 `Travis_CI` &middot; `JaCoCo` &middot; `Apache_Maven` 
 
-### &middot; &middot; &middot;
+**&middot; &middot; &middot;**
 
 `Windows` &middot; `Command_Prompt` 
 
