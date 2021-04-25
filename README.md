@@ -8,19 +8,19 @@ Have a nice time &middot; :wink:
 
 ## Skills &middot; :hammer_and_wrench:
 
-`Java`
+**`Java`**
 
-`JUnit` &bull; `Hamcrest` &bull; `CheckStyle`
+**`JUnit`** &bull; **`Hamcrest`** &bull; **`CheckStyle`**
 
-`Travis_CI` &bull; `JaCoCo` &bull; `Apache_Maven` 
+**`Travis_CI`** &bull; **`JaCoCo`** &bull; **`Apache_Maven`** 
 
-**&bull; &bull; &bull;**
+&bull; &bull; &bull;
 
-`Windows` &bull; `Command_Prompt` 
+**`Windows`** &bull; **`Command_Prompt`** 
 
-`Git` &bull; `GitHub` 
+**`Git`** &bull; **`GitHub`** 
 
-`IntelliJ_IDEA` &bull; `WebStorm`
+**`IntelliJ_IDEA`** &bull; **`WebStorm`**
 
 <!-- 
 `Java`
