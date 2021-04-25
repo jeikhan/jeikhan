@@ -8,15 +8,13 @@ Have a nice time &middot; :wink:
 
 ## Skills &middot; :hammer_and_wrench:
 
-###### Stack
-
 `Java`
 
 `JUnit` &middot; `Hamcrest` &middot; `CheckStyle`
 
 `Travis_CI` &middot; `JaCoCo` &middot; `Apache_Maven` 
 
-###### Tools
+### &middot; &middot; &middot;
 
 `Windows` &middot; `Command_Prompt` 
 
