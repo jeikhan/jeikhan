@@ -8,7 +8,7 @@ Have a nice time &middot; :wink:
 
 ## Skills &middot; :hammer_and_wrench:
 
-### Stack
+###### Stack
 
 `Java`
 
@@ -16,7 +16,7 @@ Have a nice time &middot; :wink:
 
 `Travis_CI` &middot; `JaCoCo` &middot; `Apache_Maven` 
 
-### Tools
+###### Tools
 
 `Windows` &middot; `Command_Prompt` 
 
