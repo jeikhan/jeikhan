@@ -10,9 +10,11 @@ Have a nice time &middot; :wink:
 
 **`Java`**
 
-**`JUnit`** &bull; **`Hamcrest`** &bull; **`CheckStyle`**
+**`JUnit`** &bull; **`Hamcrest`**
 
-**`Travis_CI`** &bull; **`JaCoCo`** &bull; **`Apache_Maven`** 
+**`Travis_CI`** &bull; **`JaCoCo`** 
+
+**`Apache_Maven`** &bull; **`CheckStyle`**
 
 &bull; &bull; &bull;
 
