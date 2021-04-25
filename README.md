@@ -2,7 +2,7 @@
 
 I'm Evgen, beginner **`BackEnd`** developer. I develop **`Java`** apps in conjunction with other technologies for **`desktop`** and **`web`**.
 
-Below you can find current information about my **[`hard_skills`](https://github.com/jeikhan#skills--hammer_and_wrench)** and **[`projects`](https://github.com/jeikhan#projects--rocket)**.
+Below you can find current information about my **`hard_skills`** and **`projects`**.
 
 Have a nice time &middot; :wink:
 
