@@ -10,17 +10,17 @@ Have a nice time &middot; :wink:
 
 `Java`
 
-`JUnit` &middot; `Hamcrest` &middot; `CheckStyle`
+`JUnit` &bull; `Hamcrest` &bull; `CheckStyle`
 
-`Travis_CI` &middot; `JaCoCo` &middot; `Apache_Maven` 
+`Travis_CI` &bull; `JaCoCo` &bull; `Apache_Maven` 
 
-**&middot; &middot; &middot;**
+**&bull; &bull; &bull;**
 
-`Windows` &middot; `Command_Prompt` 
+`Windows` &bull; `Command_Prompt` 
 
-`Git` &middot; `GitHub` 
+`Git` &bull; `GitHub` 
 
-`IntelliJ_IDEA` &middot; `WebStorm`
+`IntelliJ_IDEA` &bull; `WebStorm`
 
 <!-- 
 `Java`
