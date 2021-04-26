@@ -1,6 +1,6 @@
 # Hi! Nice to see you &middot; :raised_hand_with_fingers_splayed:
 
-I'm Evgenii, intern **`BackEnd`** developer. I develop **`Java`** apps in conjunction with other technologies for **`desktop`** and **`web`**.
+I'm Evgenii, intern **`Java`** developer. I develop **`Java`** apps in conjunction with other technologies for **`desktop`** and **`web`**.
 
 Below you can find current information about my **`hard_skills`** and **`projects`**.
 
@@ -8,21 +8,19 @@ Have a nice time &middot; :wink:
 
 ## Skills &middot; :hammer_and_wrench:
 
-**`Java`**
+`Java`
 
-**`JUnit`** &bull; **`Hamcrest`**
+`JUnit` &bull; `Hamcrest`
 
-**`Travis_CI`** &bull; **`JaCoCo`** 
+`Travis_CI` &bull; `JaCoCo` 
 
-**`Apache_Maven`** &bull; **`CheckStyle`**
+`Apache_Maven` &bull; `CheckStyle`
 
-&bull; &bull; &bull;
+`Windows` &bull; `Command_Prompt`
 
-**`Windows`** &bull; **`Command_Prompt`** 
+`Git` &bull; `GitHub`
 
-**`Git`** &bull; **`GitHub`** 
-
-**`IntelliJ_IDEA`** &bull; **`WebStorm`**
+`IntelliJ_IDEA` &bull; `WebStorm`
 
 <!-- 
 `Java`
