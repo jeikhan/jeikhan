@@ -1,6 +1,6 @@
 # Hi! Nice to see you &middot; :raised_hand_with_fingers_splayed:
 
-I'm Evgenii, intern **`Java`** developer. I develop **`desktop`** and **`web`** apps in conjunction with other technologies.
+I'm Evgenii, intern **`Java`** developer. I develop **`desktop`** and **`web`** apps. I use **`Java`** language in conjunction with other technologies.
 
 Below you can find current information about my **`hard_skills`** and **`projects`**.
 
