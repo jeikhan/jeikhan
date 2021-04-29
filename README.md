@@ -16,7 +16,9 @@ Have a nice time &middot; :wink:
 
 `Apache_Maven` &bull; `CheckStyle`
 
-`Windows` &bull; `Command_Prompt`
+`Windows` 
+
+`Windows_Command_Prompt`
 
 `Git` &bull; `GitHub`
 
