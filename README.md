@@ -12,7 +12,7 @@ Have a nice time &middot; :wink:
 
 `JUnit` &bull; `Hamcrest`
 
-`Travis_CI` &bull; `JaCoCo` 
+`Travis_CI` &bull; `JaCoCo` &bull; `Codecov`
 
 `Apache_Maven` &bull; `CheckStyle`
 
