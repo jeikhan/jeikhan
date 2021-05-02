@@ -1,8 +1,8 @@
 # Hi! Nice to see you &middot; :raised_hand_with_fingers_splayed:
 
-I'm Evgenii, intern **`Java`** developer. I develop **`desktop`** and **`web`** apps, using **`Java`** language with other technologies.
+I'm Evgenii, intern **`Java`** developer. I develop **desktop** and **web** apps, using **`Java`** language with other technologies.
 
-Below you can find current information about my **`hard_skills`** and **`projects`**.
+Below you can find current information about my **hard skills** and **projects**.
 
 Have a nice time &middot; :wink:
 
@@ -70,7 +70,7 @@ Have a nice time &middot; :wink:
 
 | # | Project | License | Repository | Description | UI  | Release |
 |:-:| :-----: | :-----: | :--------: | ----------- | :-: | :-----: |
-| 1 | [JeiTracker](https://github.com/jeikhan/job4j/tree/hotfix_3/chapter_002/src/main/java/ru/job4j/tracker) | [MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE) | [job4j](https://github.com/jeikhan/job4j) | Console application, that can store data with key "Name - ID" temporarily (**without database**)... [more details](https://github.com/jeikhan/job4j/blob/hotfix_3/chapter_002/src/main/java/ru/job4j/tracker/README.md) | Console | LTS |
+| 1 | [JeiTracker](https://github.com/jeikhan/job4j/tree/hotfix_3/chapter_002/src/main/java/ru/job4j/tracker) | [MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE) | [job4j](https://github.com/jeikhan/job4j) | Console application, that can store data with key "**Name - ID**" temporarily (**without database**)... [more details](https://github.com/jeikhan/job4j/blob/hotfix_3/chapter_002/src/main/java/ru/job4j/tracker/README.md) | Console | LTS |
 
 ## P.S. &middot; :snail:
 
