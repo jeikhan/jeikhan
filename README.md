@@ -16,13 +16,13 @@ Have a nice time &middot; :wink:
 
 `Apache_Maven` &bull; `CheckStyle`
 
-`Windows` 
-
 `Windows_Command_Prompt`
 
 `Git` &bull; `GitHub`
 
 `IntelliJ_IDEA` &bull; `WebStorm`
+
+`Windows` 
 
 <!-- 
 `Java`
