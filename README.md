@@ -74,4 +74,4 @@ Have a nice time &middot; :wink:
 
 ## P.S. &middot; :snail:
 
-Please, write all suggestions and comments in **Issues**. Thanks!
+For all suggestions and comments on projects welcome to **Issues**.
