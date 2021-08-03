@@ -20,7 +20,7 @@ Have a nice time &middot; :wink:
 
 `Git` &bull; `GitHub`
 
-`IntelliJ_IDEA` &bull; `WebStorm`
+`IntelliJ_IDEA`
 
 `Windows` 
 
