@@ -8,7 +8,7 @@ Have a nice time &middot; :wink:
 
 ## Skills &middot; :hammer_and_wrench:
 
-`Java` &bull; `JUnit` &bull; `Hamcrest` &bull; `Travis_CI` &bull; `JaCoCo` &bull; `Codecov` &bull; `Apache_Maven` &bull; `CheckStyle` &bull; `Windows_Command_Prompt` &bull; `Git` &bull; `GitHub` &bull; `IntelliJ_IDEA` &bull; `Windows` 
+`Java` &bull; `JUnit` &bull; `Travis_CI` &bull; `JaCoCo` &bull; `Codecov` &bull; `Apache_Maven` &bull; `CheckStyle` &bull; `Git` &bull; `IntelliJ_IDEA` &bull; `Windows` 
 
 <!-- 
 `Java`
