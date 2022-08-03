@@ -10,7 +10,9 @@ Below you can find current information about my **hard skills** and **projects**
 
 `Git` &bull; `Apache_Maven` &bull; `CheckStyle`
 
-`IntelliJ_IDEA` &bull; `Windows`
+`Windows` &bull; `Linux`
+
+`IntelliJ_IDEA`
 
 ## Project(-s)
 
