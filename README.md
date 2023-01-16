@@ -6,7 +6,9 @@ Below you can find current information about my **hard skills** and **projects**
 
 ## Skills
 
-`Java` &bull; `JUnit` &bull; `Travis_CI` &bull; `JaCoCo` &bull; `Codecov`
+`Java` 
+
+`JUnit` &bull; `Travis_CI` &bull; `JaCoCo` &bull; `Codecov`
 
 `Git` &bull; `Apache_Maven` &bull; `CheckStyle`
 
