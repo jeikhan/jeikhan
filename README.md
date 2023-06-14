@@ -4,13 +4,15 @@ I'm a software engineer : develop console and web apps, using **java** language 
 
 ## Skills
 
-Java &middot; HTML &middot; CSS &middot; JavaScript &middot; Bash
+Java &middot; JavaScript &middot; HTML &middot; CSS
 
 Git &middot; Maven &middot; JUnit
 
-Travis CI &middot; JaCoCo &middot; Codecov &middot; CheckStyle
+Travis CI &middot; JaCoCo &middot; Codecov
 
-Linux &middot; Windows &middot; IntelliJ IDEA
+Linux &middot; Windows
+
+IntelliJ IDEA
 
 ## Project(-s)
 
