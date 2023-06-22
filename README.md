@@ -1,6 +1,6 @@
 # Hi! Nice to see you ...
 
-I'm a software engineer : develop console and web apps, using **java** language with other technologies.
+I'm a backend-developer : write console and web apps, using **java** language with other technologies.
 
 ## Skills
 
