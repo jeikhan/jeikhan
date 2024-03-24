@@ -4,7 +4,7 @@ I'm a backend-developer : write console and web apps, using **java** language wi
 
 ## Skills
 
-Java &middot; JavaScript &middot; HTML &middot; CSS
+Java 
 
 Git &middot; Maven &middot; JUnit
 
@@ -27,6 +27,7 @@ With all suggestions and comments on projects, welcome to **Issues**.
 
 
 <!-- Technical information
+&middot; JavaScript &middot; HTML &middot; CSS
 
 Example badge with logo:
 ![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
