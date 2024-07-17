@@ -1,28 +1,28 @@
-# Hi! Nice to see you ...
+# Всем привет!...
 
-I'm a backend-developer : write console and web apps, using **java** language with other technologies.
+Я пишу консольные и вэб-приложения, используя язык **Java** в сочетании с другими технологиями.
 
-## Skills
+## Хард-скиллы
 
 Java 
 
 Git &middot; Maven &middot; JUnit
 
-Travis CI &middot; JaCoCo &middot; Codecov
+GitHub Actions &middot; Travis CI &middot; JaCoCo &middot; Codecov
 
 Linux &middot; Windows
 
 IntelliJ IDEA
 
-## Project(-s)
+## Проект(-ы)
 
-| # | Project | License | Description | Release |
-|:-:| :-----: | :-----: | ----------- | :-----: |
-| 1 | [JeiTracker](https://github.com/jeikhan/job4j/tree/hotfix_3/chapter_002/src/main/java/ru/job4j/tracker) | [MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE) | Console application, that can store data with key "Name - ID" temporarily (without database)... [more details](https://github.com/jeikhan/job4j/blob/hotfix_3/chapter_002/src/main/java/ru/job4j/tracker/README.md) | [Download](https://github.com/jeikhan/job4j/releases) |
+| # | Название | Лицензия | Описание | Скачать |
+|:-:| :------: | :------: | -------- | :-----: |
+| 1 | [JeiTracker](https://github.com/jeikhan/job4j/tree/hotfix_3/chapter_002/src/main/java/ru/job4j/tracker) | [MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE) | Консольное приложение для отслеживания заявок... [далее](https://github.com/jeikhan/job4j/blob/hotfix_3/chapter_002/src/main/java/ru/job4j/tracker/README.md) | [Ссылка](https://github.com/jeikhan/job4j/releases) |
 
-## P.S.
+## Примечание...
 
-With all suggestions and comments on projects, welcome to **Issues**.
+Со всеми предложениями и комментариями по проекту: добро пожаловать в **Issues** проекта.
 
 
 
