@@ -1,28 +1,22 @@
-# Всем привет!...
+# Hi there :)
 
-Я пишу консольные и веб-приложения, используя язык **Java** в сочетании с другими технологиями.
+I'm Evgeniy. I write desktop and web applications using the **Java** language in combination with other technologies.
 
-## Хард-скиллы
+## Hard skills
 
-Java 
+Java &middot; Git &middot; Maven &middot; JUnit &middot; GitHub Actions &middot; JaCoCo &middot; Codecov &middot; Linux &middot; Windows &middot; IntelliJ IDEA
 
-Git &middot; Maven &middot; JUnit
+## Project(-s)
 
-GitHub Actions &middot; Travis CI &middot; JaCoCo &middot; Codecov
+| # | Name | License | Description | Desktop | Web |
+|:-:| :--: | :-----: | ----------- | :-----: | :-: |
+| 1 | JeiTracker | [MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE) | console application for tracking tasks... [more](https://github.com/jeikhan/job4j/tree/hotfix_3/chapter_002/src/main/java/ru/job4j/tracker) | [release](https://github.com/jeikhan/job4j/releases) | - |
 
-Linux &middot; Windows
+## P.S.
 
-IntelliJ IDEA
+With all suggestions and comments on the project welcome to **Issues** :)
 
-## Проект(-ы)
 
-| # | Название | Лицензия | Описание | Скачать |
-|:-:| :------: | :------: | -------- | :-----: |
-| 1 | [JeiTracker](https://github.com/jeikhan/job4j/tree/hotfix_3/chapter_002/src/main/java/ru/job4j/tracker) | [MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE) | Консольное приложение для отслеживания заявок... [далее](https://github.com/jeikhan/job4j/blob/hotfix_3/chapter_002/src/main/java/ru/job4j/tracker/README.md) | [Ссылка](https://github.com/jeikhan/job4j/releases) |
-
-## Примечание...
-
-Со всеми предложениями и комментариями по проекту: добро пожаловать в **Issues** проекта.
 
 
 
