@@ -8,9 +8,9 @@ Java &middot; Git &middot; Maven &middot; JUnit &middot; GitHub Actions &middot;
 
 ## Project(-s)
 
-| # | Name | License | Description | Desktop | Web |
-|:-:| :--: | :-----: | ----------- | :-----: | :-: |
-| 1 | JeiTracker | [MIT](https://github.com/jeikhan/job4j/blob/hotfix_3/LICENSE) | console application for tracking tasks... [more](https://github.com/jeikhan/job4j/tree/hotfix_3/chapter_002/src/main/java/ru/job4j/tracker) | [release](https://github.com/jeikhan/job4j/releases) | - |
+| # | Name | Description | Release | Desktop | Web |
+|:-:| :--: | ----------- | :-----: | :-----: | :-: |
+| 1 | job4j_tracker | console application for tracking tasks... [more](https://github.com/jeikhan/job4j_tracker) | stable | [.jar](https://github.com/jeikhan/job4j/releases) | - |
 
 ## P.S.
 
@@ -21,10 +21,12 @@ With all suggestions and comments on the project welcome to **Issues** :)
 
 
 <!-- Technical information
+
 &middot; JavaScript &middot; HTML &middot; CSS
 
 Example badge with logo:
 ![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
 
 `Windows` &bull;
+
 -->
