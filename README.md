@@ -10,7 +10,7 @@ Java &middot; Git &middot; Maven &middot; JUnit &middot; GitHub Actions &middot;
 
 | # | Name | Description | Release | Desktop | Web |
 |:-:| :--: | ----------- | :-----: | :-----: | :-: |
-| 1 | job4j_tracker | console application for tracking tasks... [more](https://github.com/jeikhan/job4j_tracker) | stable | [.jar](https://github.com/jeikhan/job4j/releases) | - |
+| 1 | job4j_tracker | console application for tracking tasks... [more](https://github.com/jeikhan/job4j_tracker) | stable | [.jar](https://github.com/jeikhan/job4j_tracker/releases) | - |
 
 ## P.S.
 
