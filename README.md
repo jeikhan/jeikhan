@@ -1,20 +1,20 @@
 # Hi there :)
 
-I'm Evgeniy. I write desktop and web applications using the **Java** language in combination with other technologies.
+I'm Software Engineer: write desktop and web applications using the **Java** language in combination with other technologies.
 
 ## Hard skills
 
-Java &middot; Git &middot; Maven &middot; JUnit &middot; GitHub Actions &middot; JaCoCo &middot; Codecov &middot; Linux &middot; Windows &middot; IntelliJ IDEA
+Java &middot; Git &middot; Maven &middot; JUnit &middot; GitHub Actions &middot; JaCoCo &middot; Codecov &middot; IntelliJ IDEA &middot; Windows &middot; Linux
 
 ## Project(-s)
 
-| # | Name | Description | Release | Desktop | Web |
-|:-:| :--: | ----------- | :-----: | :-----: | :-: |
-| 1 | job4j_tracker | console application for tracking tasks... [more](https://github.com/jeikhan/job4j_tracker) | stable | [.jar](https://github.com/jeikhan/job4j_tracker/releases) | - |
+| # | Name | Description | Issues | Desktop | Web | Release |
+|:-:| :--: | ----------- | :----: | :-----: | :-: | :-----: |
+| 1 | job4j_tracker | console application for tracking tasks... [read more](https://github.com/jeikhan/job4j_tracker) | [open](https://github.com/jeikhan/job4j_tracker/issues) | [download](https://github.com/jeikhan/job4j_tracker/releases) | - | stable |
 
 ## P.S.
 
-With all suggestions and comments on the project welcome to **Issues** :)
+With all suggestions and comments on the project welcome to **Issues**.
 
 
 
