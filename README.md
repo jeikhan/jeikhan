@@ -1,6 +1,6 @@
 # Hi there :)
 
-I'm Software Engineer: write desktop and web applications using the **Java** language in combination with other technologies.
+I'm Software Engineer... Write desktop and web applications using the **Java** language in combination with other technologies.
 
 ## Hard skills
 
@@ -10,7 +10,7 @@ Java &middot; Git &middot; Maven &middot; JUnit &middot; GitHub Actions &middot;
 
 | # | Name | Description | Issues | Desktop | Web | Release |
 |:-:| :--: | ----------- | :----: | :-----: | :-: | :-----: |
-| 1 | job4j_tracker | console application for tracking tasks... [read more](https://github.com/jeikhan/job4j_tracker) | [open](https://github.com/jeikhan/job4j_tracker/issues) | [download](https://github.com/jeikhan/job4j_tracker/releases) | - | stable |
+| 1 | [job4j_tracker](https://github.com/jeikhan/job4j_tracker) | console application for tracking tasks | [open](https://github.com/jeikhan/job4j_tracker/issues) | [download](https://github.com/jeikhan/job4j_tracker/releases) | - | stable |
 
 ## P.S.
 
