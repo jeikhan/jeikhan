@@ -8,9 +8,9 @@ Java &middot; Git &middot; Maven &middot; JUnit &middot; GitHub Actions &middot;
 
 ## Project(-s)
 
-| # | Name | Description | Issues | Desktop | Web | Release |
-|:-:| :--: | ----------- | :----: | :-----: | :-: | :-----: |
-| 1 | [job4j_tracker](https://github.com/jeikhan/job4j_tracker) | console application for tracking tasks | [open](https://github.com/jeikhan/job4j_tracker/issues) | [download](https://github.com/jeikhan/job4j_tracker/releases) | - | stable |
+| # | Name | Description | Platform | Release |
+|:-:| :--: | ----------- | :-———--: | :-----: |
+| 1 | [job4j_tracker](https://github.com/jeikhan/job4j_tracker) | console application for tracking tasks | [desktop](https://github.com/jeikhan/job4j_tracker/releases) | stable |
 
 ## P.S.
 
